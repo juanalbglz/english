@@ -14,4 +14,3 @@ Here is a non exahustive list of illustrated curiosities in english, from the ea
 
 
 | [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |
-|-------|-------|-------|--------|
