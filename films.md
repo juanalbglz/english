@@ -37,10 +37,5 @@
 [All BBC Videos on Archive.org](https://archive.org/search.php?query=creator%3A%22BBC+Video%22)
 
 
-[Index](README.md)
-
-[Books](books.md)
-
-[Films](films.md)
-
-[Series](series.md)
+| [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |
+|-------|-------|-------|--------|
