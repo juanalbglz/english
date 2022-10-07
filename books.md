@@ -1,2 +1,3 @@
 [The mysteryes of nature and art](https://archive.org/details/mysteryesofnatur00bate) by [Bate,John]() 1634
+
   The Mysteries of Nature and Art is a book by John Bate written in 1634. The book acts as a practical guide for amateur scientific experiments, and is divided into four sections: Water Workes, Fyer Workes, Drawing, Colouring, Painting and Engraving, and Divers Experiments.[1] It inspired Isaac Newton during his younger years, in particular the section on fire Drakes, kites with firecrackers tied to their tails.[1] It contains one of the earliest depictions of fireworks and their preparation to be detailed in the English language, in a similar manner to the preceding De la pirotechnia.
