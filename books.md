@@ -1,3 +1,5 @@
+| [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |
+
 Here is a non exahustive list of illustrated curiosities in english, from the early times of bookpress until nowadays.
 
 [The mysteryes of nature and art](https://archive.org/details/mysteryesofnatur00bate) by Bate,John 1634
@@ -11,6 +13,3 @@ Here is a non exahustive list of illustrated curiosities in english, from the ea
 [The secrets of the reverend Maister Alexis of Piemont](https://archive.org/details/secretsofreveren00rusc/) by Ruscelli, Girolamo, 1595
 
   containing excellent remedies against diverse diseases, wounds, and other accidents, with the maner to make distillations, parfumes, confitures, dying, colours, fusions, and meltings ...
-
-
-| [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |

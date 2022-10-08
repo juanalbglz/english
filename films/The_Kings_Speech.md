@@ -11,6 +11,9 @@ The King's Speech is a 2010 British historical drama film directed by Tom Hooper
 [Amazon Prime](https://www.primevideo.com/region/eu/detail/0KRI3BT9TRM3MISQBU8LBEN8QV/ref=atv_dp_share_cu_r?&_encoding=UTF8&tag=englishreso0e-21&linkCode=ur2&linkId=0a51dddce5c04cb8bc30d803d5a4626d&camp=3638&creative=24630)
 
 
+
+[Script](kings-speech-script1.pdf)
+
 ## Vocabulary
 
 - [(Your) Royal Highness](https://dictionary.cambridge.org/dictionary/english/royal-highness)
