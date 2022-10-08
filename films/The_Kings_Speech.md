@@ -1,4 +1,4 @@
-| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |
+| [Books](/english-resources/books.html) | [Films](/english-resources/films.html) | [Series](/english-resources/series.html) |
 
 # The King's Speech
 
