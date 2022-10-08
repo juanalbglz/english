@@ -1,4 +1,4 @@
-| [Index](/README.md) | [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
 
 # The King's Speech
 
