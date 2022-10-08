@@ -40,6 +40,9 @@ The King's Speech is a 2010 British historical drama film directed by Tom Hooper
 - ["You have a little bit of a temper"](https://dictionary.cambridge.org/es/diccionario/ingles/temper)
 - ["One of my many faults"](https://dictionary.cambridge.org/es/diccionario/ingles/fault)
 - ["Shan't"](https://dictionary.cambridge.org/es/diccionario/ingles/shan-t)
+- ["One usually wagers money](https://dictionary.cambridge.org/es/diccionario/ingles/wager)
+- ["a bob, a schilling"](https://dictionary.cambridge.org/es/diccionario/ingles/bob) [old currency system in Great Britain](/english-resources/resources/old_money.html)
+
 
 ## Quotes
 
