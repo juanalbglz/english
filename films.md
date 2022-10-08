@@ -1,4 +1,4 @@
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |
 
 # British Films to practise your english listening and understanding
 
@@ -46,4 +46,4 @@
 
 [All BBC Videos on Archive.org](https://archive.org/search.php?query=creator%3A%22BBC+Video%22)
 
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |

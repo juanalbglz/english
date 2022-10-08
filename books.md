@@ -1,4 +1,4 @@
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |
 
 # English Books to practise your english listening and understanding
 
@@ -19,4 +19,4 @@ Here is a non exahustive list of illustrated curiosities in english, from the ea
 
   containing excellent remedies against diverse diseases, wounds, and other accidents, with the maner to make distillations, parfumes, confitures, dying, colours, fusions, and meltings ...
 
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |

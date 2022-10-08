@@ -1,5 +1,5 @@
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |
 
 # British Series to improve your english listening and understanding
 
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |

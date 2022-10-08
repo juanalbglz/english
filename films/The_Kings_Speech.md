@@ -1,4 +1,4 @@
-| [Books](/books.md) | [Films](/films.md) | [Series](/series.md) |
+| [Books](/english-resources/books.md) | [Films](/english-resources/films.md) | [Series](/english-resources/series.md) |
 
 # The King's Speech
 
@@ -37,6 +37,9 @@ The King's Speech is a 2010 British historical drama film directed by Tom Hooper
 - ["What on earth do you mean?"](https://dictionary.cambridge.org/dictionary/english/what-on-earth)
 - ["Your first recollection"](https://dictionary.cambridge.org/dictionary/english/recollection)
 - "Because I [bloody](https://dictionary.cambridge.org/dictionary/english/bloody) well [stammer](https://dictionary.cambridge.org/dictionary/english/stammer)"
+- ["You have a little bit of a temper"](https://dictionary.cambridge.org/es/diccionario/ingles/temper)
+- ["One of my many faults"](https://dictionary.cambridge.org/es/diccionario/ingles/fault)
+- ["Shan't"](https://dictionary.cambridge.org/es/diccionario/ingles/shan-t)
 
 ## Quotes
 
