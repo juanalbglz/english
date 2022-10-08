@@ -19,4 +19,25 @@ The King's Speech is a 2010 British historical drama film directed by Tom Hooper
 - [(Your) Royal Highness](https://dictionary.cambridge.org/dictionary/english/royal-highness)
 - [Demosthenes](https://en.wikipedia.org/wiki/Demosthenes)
 - ["I’m just in the loo"](https://dictionary.cambridge.org/dictionary/english/loo)
+- ["everyone to no avail"](https://dictionary.cambridge.org/dictionary/english/to-no-avail)
+- ["required to speak publicly"](https://dictionary.cambridge.org/dictionary/english/publicly)
 - ["Indentured servitude?"](https://dictionary.cambridge.org/dictionary/english/indentured)
+- ["hubby"](https://dictionary.cambridge.org/dictionary/english/hubby)
+- ["to pop by"](https://idioms.thefreedictionary.com/pop+by)
+- ["unobliging"](https://www.thefreedictionary.com/unobliging)
+- ["to be a sport"](https://idioms.thefreedictionary.com/be+a+sport)
+- ["inane"](https://dictionary.cambridge.org/dictionary/english/inane?q=+inane)
+- ["the matter is settled"](https://www.freethesaurus.com/settled)
+- ["regal"](https://www.freethesaurus.com/regal)
+- ["Bertie tries to smile despite his mood, but doesn’t make a job of it"](https://dictionary.cambridge.org/es/diccionario/ingles/do-make-a-good-bad-job-of)
+- ["to take a stroll"](https://dictionary.cambridge.org/es/diccionario/ingles/stroll)
+- ["a good lad"](https://dictionary.cambridge.org/es/diccionario/ingles/lad)
+- ["Timing isn’t my strong suit"](https://dictionary.cambridge.org/es/diccionario/ingles/strong-suit)
+- [".. no-one would give a damn."](https://dictionary.cambridge.org/es/diccionario/ingles/not-give-care-a-damn?q=not+give+a+damn)
+- ["What on earth do you mean?"](https://dictionary.cambridge.org/dictionary/english/what-on-earth)
+- ["Your first recollection"](https://dictionary.cambridge.org/dictionary/english/recollection)
+- "Because I [bloody](https://dictionary.cambridge.org/dictionary/english/bloody) well [stammer](https://dictionary.cambridge.org/dictionary/english/stammer)"
+
+## Quotes
+
+- "My ‘castle’, my rules."
