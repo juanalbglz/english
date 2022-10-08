@@ -1,5 +1,5 @@
-| [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |
+| [Books](books.md) | [Films](films.md) | [Series](series.md) |
 
-# British Series
+# British Series to improve your english listening and understanding
 
-| [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |
+| [Books](books.md) | [Films](films.md) | [Series](series.md) |
