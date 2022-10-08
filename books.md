@@ -1,4 +1,4 @@
-| [Index](README.md) | [Books](books.md) | [Films](films.md) | [Series](series.md) |
+| [Books](books.md) | [Films](films.md) | [Series](series.md) |
 
 Here is a non exahustive list of illustrated curiosities in english, from the early times of bookpress until nowadays.
 
