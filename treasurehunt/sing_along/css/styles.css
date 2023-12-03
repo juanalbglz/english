@@ -14,7 +14,12 @@ main {
     display: flex;
     flex-direction: column;
 }
-audio {
+main > div, main>h1 {
+    text-align: center;
+    margin-bottom: 1vw;
+    font-size: 3vw;
+}
+audio, .link {
     width: 50vw;
     margin: auto;
     margin-bottom: 10vh;
