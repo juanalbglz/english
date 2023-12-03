@@ -10,20 +10,20 @@ body {
 main {
     margin: auto;
     width: 90vw;
-    height: 100vh;
+    height: 90vh;
     display: flex;
     flex-direction: column;
 }
-main > div, main>h1 {
+main > div, main > h1 {
     text-align: center;
-    margin-bottom: 1vw;
-    font-size: 3vw;
+    margin-bottom: 3vh;
+    font-size: 4vh;
 }
 audio, .link {
     width: 50vw;
     margin: auto;
-    margin-bottom: 10vh;
-    margin-top: 10vh;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
     flex-shrink: 0;
 }
 #lyrica-wrap
@@ -35,6 +35,6 @@ audio, .link {
 }
 .lyrica-inner p.active {
     font-weight: bold;
-    font-size: 6rem;
+    font-size: 12vh;
     color: rgb(20, 20, 20);
 }
