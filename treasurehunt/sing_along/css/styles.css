@@ -35,6 +35,6 @@ audio, .link {
 }
 .lyrica-inner p.active {
     font-weight: bold;
-    font-size: 12vh;
+    font-size: 7vh;
     color: rgb(20, 20, 20);
 }
