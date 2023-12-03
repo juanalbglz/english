@@ -1,13 +1,7 @@
 [00:00.00] JINGLE BELLS
-[00:01.53] 3
-[00:02.53] 2
-[00:03.53] 1
-[00:04.53] I love those J-I-N-G-L-E bells
-[00:09.50] Oh, those holiday J-I-N-G-L-E bells
-[00:15.30] Oh, those happy J-I-N-G-L-E
-[00:19.66] B-E-double L-S
-[00:21.60] I love those J-I-N-G-L-E bells
-[00:26.53] Oh
+[00:25.40] 3
+[00:26.40] 2
+[00:27.40] 1
 [00:28.40] Jingle bells, jingle bells
 [00:30.60] Jingle all the way
 [00:33.40] Oh, what fun it is to ride
