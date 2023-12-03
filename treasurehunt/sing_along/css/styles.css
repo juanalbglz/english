@@ -20,7 +20,7 @@ main > div, main > h1 {
     font-size: 4vh;
 }
 audio, .link {
-    width: 50vw;
+    width: 80vw;
     margin: auto;
     margin-bottom: 3vh;
     margin-top: 3vh;
