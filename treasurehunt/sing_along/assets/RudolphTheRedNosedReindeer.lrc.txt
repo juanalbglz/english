@@ -1,3 +1,7 @@
+[00:00.00] RUDOLPH THE RED NOSED REINDEER
+[00:02.91] 3
+[00:03.91] 2
+[00:04.91] 1
 [00:05.91] You know There's Dasher And Dancer
 [00:08.13] And Prancer and Vixen
 [00:11.11] You know Comet and Cupid

@@ -1,4 +1,7 @@
-[00:05.31] Deck the Halls 
+[00:00.00] DECK THE HALLS
+[00:16.96] 3
+[00:17.96] 2
+[00:18.96] 1
 [00:19.96] Deck the halls with boughs of holly,
 [00:23.84] Fa-la-la-la-la, la-la, la, la
 [00:27.81] ’Tis the season to be jolly,

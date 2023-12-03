@@ -1,10 +1,7 @@
-﻿[00:00.00]Shape of You - Ed Sheeran
-[00:02.99]
-[00:04.07]Songwriters:
-[00:06.16]Ed Sheeran, Steve Mac
-[00:07.01]Johnny McDaid, Kandi Burruss
-[00:08.06]Tameka Cottle, Kevin Briggs
-[00:08.77]
+﻿[00:00.00] SHAPE OF YOU
+[00:06.36] 3
+[00:07.36] 2
+[00:08.36] 1
 [00:09.36]The club isn't the best place to find a lover | 夜店远非寻爱之所
 [00:11.74]So the bar is where I go | 所以我们去了酒吧
 [00:14.39]Me and my friends at the table doing shots | 我和朋友们在桌前畅饮

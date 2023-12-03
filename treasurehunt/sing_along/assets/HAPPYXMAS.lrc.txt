@@ -1,5 +1,7 @@
-[00:00.66] Yoko Ono: Happy Xmas, Kyoko
-[00:02.04] John Lennon: Happy Xmas, Julian
+[00:00.00] HAPPY XMAS
+[00:00.54] 3
+[00:01.54] 2
+[00:02.54] 1
 [00:03.54] So this is Xmas
 [00:08.14] And what have you done?
 [00:13.06] Another year over

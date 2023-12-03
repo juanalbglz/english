@@ -1,4 +1,7 @@
 [00:00.00] TWELVE DAYS OF CHRISTMAS
+[00:07.88] 3
+[00:08.88] 2
+[00:09.88] 1
 [00:10.88] On the first day of Christmas my true love sent to me:
 [00:15.61] A partridge in a pear tree.
 [00:19.32] On the second day of Christmas my true love sent to me:
